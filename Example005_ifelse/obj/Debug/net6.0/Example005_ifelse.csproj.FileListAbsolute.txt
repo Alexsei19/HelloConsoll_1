@@ -1,0 +1,15 @@
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example005_ifelse\bin\Debug\net6.0\Example005_ifelse.exe
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example005_ifelse\bin\Debug\net6.0\Example005_ifelse.deps.json
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example005_ifelse\bin\Debug\net6.0\Example005_ifelse.runtimeconfig.json
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example005_ifelse\bin\Debug\net6.0\Example005_ifelse.dll
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example005_ifelse\bin\Debug\net6.0\Example005_ifelse.pdb
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.csproj.AssemblyReference.cache
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.AssemblyInfoInputs.cache
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.AssemblyInfo.cs
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.csproj.CoreCompileInputs.cache
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.dll
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example005_ifelse\obj\Debug\net6.0\refint\Example005_ifelse.dll
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.pdb
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.genruntimeconfig.cache
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example005_ifelse\obj\Debug\net6.0\ref\Example005_ifelse.dll
