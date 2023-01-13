@@ -1,0 +1,15 @@
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example006_max\bin\Debug\net6.0\Example006_max.exe
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example006_max\bin\Debug\net6.0\Example006_max.deps.json
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example006_max\bin\Debug\net6.0\Example006_max.runtimeconfig.json
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example006_max\bin\Debug\net6.0\Example006_max.dll
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example006_max\bin\Debug\net6.0\Example006_max.pdb
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example006_max\obj\Debug\net6.0\Example006_max.csproj.AssemblyReference.cache
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example006_max\obj\Debug\net6.0\Example006_max.GeneratedMSBuildEditorConfig.editorconfig
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example006_max\obj\Debug\net6.0\Example006_max.AssemblyInfoInputs.cache
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example006_max\obj\Debug\net6.0\Example006_max.AssemblyInfo.cs
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example006_max\obj\Debug\net6.0\Example006_max.csproj.CoreCompileInputs.cache
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example006_max\obj\Debug\net6.0\Example006_max.dll
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example006_max\obj\Debug\net6.0\refint\Example006_max.dll
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example006_max\obj\Debug\net6.0\Example006_max.pdb
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example006_max\obj\Debug\net6.0\Example006_max.genruntimeconfig.cache
+D:\Алексей\Курс Разработчик\Знакомство с языком С#\Examples\Example006_max\obj\Debug\net6.0\ref\Example006_max.dll
